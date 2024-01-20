@@ -8,8 +8,10 @@
   - [Pycharm](https://www.jetbrains.com/pycharm/download/?section=windows)
   - [Thonny](https://thonny.org/) for linux user 
 
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
+* Cloud database(FIrebase)
+  - [Firebase](https://console.firebase.google.com/u/0/) use this link.
+  - after registering start a new project.
+  - 
 * GitHub Flavored Markdown  
 * Syntax highlighting
 * [KaTeX](https://khan.github.io/KaTeX/) Support
