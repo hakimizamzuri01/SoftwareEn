@@ -11,27 +11,23 @@
 * Cloud database(FIrebase)
   - [Firebase](https://console.firebase.google.com/u/0/) use this link.
   - after registering start a new project.
-  - ![Screenshot 2024-01-21 021843](https://github.com/hakimizamzuri01/SoftwareEn/assets/74414164/dd96bac5-a065-4726-bcbc-7ebc48e1001a)
+![Screenshot 2024-01-21 021843](https://github.com/hakimizamzuri01/SoftwareEn/assets/74414164/dd96bac5-a065-4726-bcbc-7ebc48e1001a)
   - after entering choose the Firestore database because this is what we going to use for our database
-  - ![Screenshot 2024-01-21 022216](https://github.com/hakimizamzuri01/SoftwareEn/assets/74414164/55201ba8-8f21-4fa0-97f7-e6e27abd74e4)
+![Screenshot 2024-01-21 022216](https://github.com/hakimizamzuri01/SoftwareEn/assets/74414164/55201ba8-8f21-4fa0-97f7-e6e27abd74e4)
   - once enter, you will be greated by create database pop up choose your location and proceed
   - then go to Project Overview>>Project Setting>>Service Account>> Choose the python option and generate new private key
-  - 
+
+![Screenshot 2024-01-21 022944](https://github.com/hakimizamzuri01/SoftwareEn/assets/74414164/ae01b6b7-fa09-4246-84e4-089fee0c8b3d)
+  -the json file is IMPORTANT to allow us to use(UPDATE,DELETE,GET) from database from python IDE
 
     
-* GitHub Flavored Markdown  
-* Syntax highlighting
+##Pyhton Part1(database)
+* install the firebase_admin library
+```bash
+#pip install firebase-admin
+```
 * [KaTeX](https://khan.github.io/KaTeX/) Support
 * Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
 
 ## How To Use
 
