@@ -1,5 +1,5 @@
 # Hotel Reservation System with Firebase and tkinter GUI
-
+## Group 9 by Muhammad Hakimi, Bimo Pranata, Adib Naufal, Aideal Hakimi
 
 ## get started
 ## Initial setup
